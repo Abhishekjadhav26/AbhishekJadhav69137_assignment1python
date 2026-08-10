@@ -1,0 +1,7 @@
+INFO Application Started
+INFO User Logged In
+WARNING Storage Space Low
+ERROR Database Connection Failed
+INFO User Logged Out
+ERROR Server Not Responding
+Invalid Log Entry
