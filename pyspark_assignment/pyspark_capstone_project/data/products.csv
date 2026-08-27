@@ -1,0 +1,13 @@
+product_id,product_name,category,brand,unit_price
+P101,Laptop,Electronics,Dell,65000
+P102,Smartphone,Electronics,Samsung,45000
+P103,Headphones,Electronics,Sony,5000
+P104,Office Chair,Furniture,Ikea,12000
+P105,Study Table,Furniture,Ikea,15000
+P106,Running Shoes,Footwear,Nike,7000
+P107,Sports Shoes,Footwear,Adidas,6500
+P108,T-Shirt,Clothing,Puma,1500
+P109,Jacket,Clothing,Levis,4500
+P110,Smart Watch,Electronics,Apple,30000
+P106,Running Shoes,Footwear,Nike,7000
+P111,,Clothing,Puma,2000

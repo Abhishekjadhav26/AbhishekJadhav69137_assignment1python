@@ -1,0 +1,13 @@
+customer_id,customer_name,gender,age,city,registration_date
+C101,Abhishek Jadhav,Male,26,Mumbai,2025-01-15
+C102,Tony Stark,male,25,Pune,2025-02-10
+C103,Amitabh Sharma,Male,48,Delhi,2025-01-20
+C104,Jaya Mehta,Female,42,Ahmedabad,2025-03-12
+C105,Salman Khan,Male,35,Mumbai,2025-04-05
+C106,Rahul Verma,Male,29,Pune,2025-05-18
+C107,Priya Shah,Female,31,Ahmedabad,2025-02-25
+C108,Kapil Sharma,Male,39,Delhi,2025-06-10
+C109,Neha Singh,Female,28,Mumbai,2025-07-01
+C110,Samay Raina,Male,27,Pune,2025-07-15
+C103,Amitabh Sharma,Male,48,Delhi,2025-01-20
+C111,,Female,30,Mumbai,2025-08-05

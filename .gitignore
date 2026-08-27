@@ -2,3 +2,10 @@ __pycache__/
 *.pyc
 venv/
 .venv/
+
+# Spark
+output/
+*.crc
+
+# Spark 
+.sparkStaging/
